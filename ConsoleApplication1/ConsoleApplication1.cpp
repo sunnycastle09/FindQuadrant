@@ -22,4 +22,5 @@ int main() {
         std::cout << 2;
     else
         std::cout << 3;
+
 }
